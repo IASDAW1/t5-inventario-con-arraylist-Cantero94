@@ -11,6 +11,7 @@ package com.myproject.inventario;
 public class Inventario {
 
     public static void main(String[] args) {
+        System.out.println("ACHO ACHO");
         System.out.println("Viva Murcia!");
     }
 }
